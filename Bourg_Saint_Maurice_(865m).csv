@@ -1,4 +1,4 @@
-;neige_au_sol;snow_total ;snow_event ;;;;site_parameter
+;neige_au_sol;snow_total;snow_event;;;;site_parameter
 january;195;30;3;;;latitude;45.612667
 february;0;0;0;;;longitude;6.763333
 march;11;10;1;;;timezone;Europe/Paris
